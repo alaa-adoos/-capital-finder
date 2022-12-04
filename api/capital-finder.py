@@ -8,10 +8,10 @@ class handler(BaseHTTPRequestHandler):
 
   def do_GET(self):
     '''
-        send response to vercel as a country or a capital
+        send response too vercel as a country or a capital
         and send request to API to get a response of the capital of the country
         or the country to this capital  and if you didint sent any 
-        it will give you a message said provide a country or a capital
+        it will give you a  message said provide a country or a capital
     '''
 
     path=self.path
