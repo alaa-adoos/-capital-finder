@@ -1,5 +1,5 @@
-# LAB - Class 20
-# django-models
+# LAB - Class 13
+# Serverless Functions
 Author:
 - [alaa abualadoos](https://www.linkedin.com/in/alaa-abu-al-adoos-047428237/)
 ### Setup
